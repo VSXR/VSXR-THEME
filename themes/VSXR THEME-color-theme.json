@@ -1,6 +1,10 @@
 {
     "name": "VSXR",
     "type": "dark",
+	"description": "VSXR THEME FOR CODING",
+	"version": "1.0.0.0",
+	"publisher": "VictorSanz",
+
     "semanticHighlighting": true,
     "semanticTokenColors": {
         "enumMember": {
