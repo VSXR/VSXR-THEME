@@ -25,9 +25,11 @@ If you want, you can [click this link](https://marketplace.visualstudio.com/item
 
 #### CONSOLE (POWERSHELL)
 1. Open Visual Studio Code in the current folder
+
 code .
 
 2. Install the theme extension from the VS Code marketplace
+
 code --install-extension VSXR-THEME
 
 ## Contributions
