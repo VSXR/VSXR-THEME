@@ -24,13 +24,13 @@ If you want, you can [click this link](https://marketplace.visualstudio.com/item
 --------- OR ---------
 
 #### CONSOLE (POWERSHELL)
-1. Open Visual Studio Code in the current folder
+1. Open Visual Studio Code in the current folder (you need to have VS Code as a PATH variable to use code . )
 
-code .
+  code .
 
 2. Install the theme extension from the VS Code marketplace
 
-code --install-extension VSXR-THEME
+  code --install-extension VSXR-THEME
 
 ## Contributions
 Contributions and suggestions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details
