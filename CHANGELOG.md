@@ -1,9 +1,11 @@
 # Change Log
-
 All notable changes to the "VSXR" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Current Version] - v0.2 (2024)
+### Changed
+- Structure of the repository and enchanced visibility
 
-## [Unreleased]
 
-- Initial release
+## [Previous Version] - v0.1 (2023)
+### Added
+- Theme deployment and creation of the repository
